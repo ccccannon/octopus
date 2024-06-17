@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2500dd35-c667-434f-af6b-c4088f9e9c09",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 50,
+  "height": 50,
+  "platformSettings": {},
+  "subMetas": {
+    "fruit_watermelon_small": {
+      "ver": "1.0.6",
+      "uuid": "92190d3d-4837-4035-afbf-d58246244340",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2500dd35-c667-434f-af6b-c4088f9e9c09",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 46,
+      "height": 47,
+      "rawWidth": 50,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

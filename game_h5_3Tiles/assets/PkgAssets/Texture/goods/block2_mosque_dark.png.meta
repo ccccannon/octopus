@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3cd4c6ec-bb8f-48cf-a6db-3e2757091ad5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 176,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "block2_mosque_dark": {
+      "ver": "1.0.6",
+      "uuid": "5a7a97a9-eb6c-42d0-ac84-61c55df4094d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3cd4c6ec-bb8f-48cf-a6db-3e2757091ad5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 176,
+      "height": 200,
+      "rawWidth": 176,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
